@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-Grupo de Programación Competitiva - Universidad Nacional de Ucayali
+Grupo de Programación Competitiva de la Universidad Nacional de Ucayali
